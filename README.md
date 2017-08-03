@@ -1,4 +1,4 @@
-* Tensorflow *
+**Tensorflow**
 ## Yêu cầu
   1. Window 7/8/8.1/10 64bit
   2. Anaconda 4.2.0 với Python 3.5.x
