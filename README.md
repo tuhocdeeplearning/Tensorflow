@@ -33,7 +33,7 @@
   - Tải và cài đặt Tensorflow bằng Command:
       (tensorflow)C:\> pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-1.0.1-cp35-cp35m-win_amd64.whl    
   - Cài đặt thành công -> tiếp tục mở command lên để kiểm tra phiên bản của tensorflow:               
-      C:\Users\son>python       
-      >importtensorflow as tf                     
-      >print(tf.version__)                    
+      Type python       
+      Type importtensorflow as tf                     
+      Type print(tf.version__)                    
       Output: 1.01
